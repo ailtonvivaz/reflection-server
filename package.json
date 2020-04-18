@@ -1,0 +1,28 @@
+{
+  "name": "reflection-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ailtonvivaz/reflection-server.git"
+  },
+  "keywords": [
+    "reflection",
+    "nodejs",
+    "mongodb",
+    "docker"
+  ],
+  "author": "Ailton Vieira Pinto Filho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ailtonvivaz/reflection-server/issues"
+  },
+  "homepage": "https://github.com/ailtonvivaz/reflection-server#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
